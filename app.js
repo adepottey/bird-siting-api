@@ -2,8 +2,8 @@ const express = require("express");
 var cors = require("cors");
 const sitings = require("./sitings.json");
 const app = express();
-app.use(cors);
-const port = process.env.PORT || 8000;
+app.use(cors());
+const port = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
   res.send("Welcome my bird sitings API!");
