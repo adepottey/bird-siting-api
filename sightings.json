@@ -3,20 +3,20 @@
     {
       "timestamp": 1656658800000,
       "birdname": "House Finch",
-      "x": -117.2059,
-      "y": 34.0564
+      "long": -117.2059,
+      "lat": 34.0564
     },
     {
       "timestamp": 1656831600000,
       "birdname": "Yellow Rumped Warbler",
-      "x": -117.17982,
-      "y": 34.0763822
+      "long": -117.17982,
+      "lat": 34.0763822
     },
     {
       "timestamp": 1656745200000,
       "birdname": "Black Phoebe",
-      "x": -117.117211,
-      "y": 34.05097
+      "long": -117.117211,
+      "lat": 34.05097
     }
   ]
 }
